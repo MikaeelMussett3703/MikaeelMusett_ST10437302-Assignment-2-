@@ -1,0 +1,15 @@
+<resources>
+    <!-- Button labels -->
+    <string name="feed_button_label">Feed</string>
+    <string name="clean_button_label">Clean</string>
+    <string name="play_button_label">Play</string>
+
+    <!-- Status labels -->
+    <string name="hunger_label">Hunger:</string>
+    <string name="cleanliness_label">Cleanliness:</string>
+    <string name="health_label">Health:</string>
+    <string name="clean">CLEAN</string>
+
+    <!-- Define the application theme -->
+    <string name="TamagotchiApp">TamagotchiApp</string>
+</resources>
